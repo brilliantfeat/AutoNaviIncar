@@ -11,6 +11,6 @@
 
 等其它可能存在问题
 
-下载：下载地址
+下载：https://github.com/brilliantfeat/AutoNaviIncar/releases/tag/Release
 
 说明:为伪装百度地图版本,所以手机中如果有百度地图请先卸载再安装.仅替换包名及activity添加incar小窗支持,未做其它任何修改.
