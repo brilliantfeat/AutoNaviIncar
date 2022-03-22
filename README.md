@@ -18,6 +18,8 @@
 
 下载：https://github.com/brilliantfeat/AutoNaviIncar/releases/tag/Release
 
-`说明:为占用百度地图包名版本,所以手机中如果有百度地图请先卸载再安装.仅替换包名及activity添加incar小窗支持,未做其它任何修改.`
+`说明:为占用百度地图包名版本,所以手机中如果有百度地图请先卸载再安装;`
+
+~~仅替换包名及activity添加incar小窗支持,未做其它任何修改,~~`20220322版本有添加少量代码.`
 
 `介意勿下。。。`
