@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    package="com.baidu.BaiduMap"
+	<--清单修改内容>
+    <application
+        。。。。。。
+        <activity
+            android:icon="@drawable/v3_icon"
+            android:name="com.autonavi.auto.remote.fill.UsbFillActivity">
+            。。。。。。
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.VIEW" />
+                <category
+                    android:name="android.intent.category.DEFAULT" />
+                <category
+                    android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:scheme="bdapp"
+                    android:host="hicarmap" />
+                <data android:scheme="baidumap" />
+            </intent-filter>
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.VIEW" />
+                <category
+                    android:name="android.intent.category.DEFAULT" />
+                <category
+                    android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:scheme="bdapp"
+                    android:host="map" />
+                <data android:scheme="baidumapmecp" />
+            </intent-filter>
+            <intent-filter>
+                <action
+                    android:name="com.ucar.intent.action.UCAR" />
+                <category
+                    android:name="com.ucar.intent.category.MAP_PREVIEW" />
+            </intent-filter>
+        </activity>
+        。。
+    </application>
+</manifest>
+
