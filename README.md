@@ -28,7 +28,7 @@
 
 已上传部分修改代码，如需其他更改，请自行修改。
 
-[下载地址](https://github.com/brilliantfeat/AutoNaviIncar/releases/tag/Release)
+[下载地址](https://github.com/brilliantfeat/AutoNaviIncar/releases)
 
 `说明:为占用百度地图包名版本,所以手机中如果有百度地图请先卸载再安装;`
 
