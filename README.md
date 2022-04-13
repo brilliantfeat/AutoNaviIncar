@@ -1,5 +1,7 @@
 # AutoNaviIncar
 
+![image](截图预览/v3_icon.png)
+
 高德地图车机版incar小窗版
 
 支持incar小窗
