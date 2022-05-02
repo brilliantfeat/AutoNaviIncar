@@ -81,6 +81,8 @@ Tip：为防止恶意修MT公共签名改为个人签名，因此不可直接升
 
 [下载地址](https://github.com/brilliantfeat/AutoNaviIncar/releases)
 
+许多网友反应无法下载，上传了[百度网盘](https://pan.baidu.com/s/1bfIHyDcrJIrJ5g-_Lg8nBg),提取码：8888
+
 `说明:为占用百度地图包名版本,所以手机中如果有百度地图请先卸载再安装;`
 
 ~~仅替换包名及activity添加incar小窗支持,未做其它任何修改,~~`添加少量必要代码.`
