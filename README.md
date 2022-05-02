@@ -1,6 +1,6 @@
 # AutoNaviIncar
 
-![image](截图预览/v3_icon.png)
+![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/v3_icon.png)
 
 高德地图车机版incar小窗版
 
@@ -10,19 +10,19 @@
 
 1.小窗
 
-![image](截图预览/1.gif)
+![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/1.gif)
 
 2.快捷按钮导航
 
-![image](截图预览/2.gif)
+![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/2.gif)
 
 3.语音控制
 
-![image](截图预览/3.gif)
+![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/3.gif)
 
-![image](截图预览/4.gif)
+![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/4.gif)
 
-![image](截图预览/5.gif)
+![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/5.gif)
 
 `存在问题:`
 
