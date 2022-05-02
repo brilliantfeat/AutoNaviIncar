@@ -1,6 +1,6 @@
 # AutoNaviIncar
 
-![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/v3_icon.png)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/eaa0319625c2433a8c5b66f1edc15359_w256_h256.png_.webp)
 
 高德地图车机版incar小窗版
 
