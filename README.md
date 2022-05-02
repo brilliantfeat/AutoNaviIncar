@@ -10,7 +10,7 @@
 
 1.小窗
 
-![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/1.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/631d45dcd7db4c3b8a9aeca59477e65e_w960_h540.gif_.webp)
 
 2.快捷按钮导航
 
