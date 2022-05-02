@@ -1,6 +1,6 @@
 # AutoNaviIncar
 
-![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/eaa0319625c2433a8c5b66f1edc15359_w256_h256.png_.webp)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/eaa0319625c2433a8c5b66f1edc15359_w256_h256.png)
 
 高德地图车机版incar小窗版
 
@@ -10,7 +10,7 @@
 
 1.小窗
 
-![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/631d45dcd7db4c3b8a9aeca59477e65e_w960_h540.gif_.webp)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/631d45dcd7db4c3b8a9aeca59477e65e_w960_h540.gif)
 
 2.快捷按钮导航
 
