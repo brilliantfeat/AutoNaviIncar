@@ -14,15 +14,15 @@
 
 2.快捷按钮导航
 
-![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/2.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/41671421a24e4dea85ea31c4110e3392_w960_h540.gif)
 
 3.语音控制
 
-![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/3.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/7b26ad59b6ba475699b9c82316f40658_w960_h540.gif)
 
-![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/4.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/fdd84afd24fc4d669e6f8fd7c1cedeca_w960_h540.gif)
 
-![](https://github.com/brilliantfeat/AutoNaviIncar/blob/main/%E6%88%AA%E5%9B%BE%E9%A2%84%E8%A7%88/5.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/f2a97cb6f0624643ae4a367187bc5d13_w960_h540.gif)
 
 `存在问题:`
 
