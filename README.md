@@ -10,19 +10,19 @@
 
 1.小窗
 
-[![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/631d45dcd7db4c3b8a9aeca59477e65e_w960_h540.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/631d45dcd7db4c3b8a9aeca59477e65e_w960_h540.gif_.webp)
 
 2.快捷按钮导航
 
-[![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/41671421a24e4dea85ea31c4110e3392_w960_h540.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/41671421a24e4dea85ea31c4110e3392_w960_h540.gif)
 
 3.语音控制
 
-[![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/7b26ad59b6ba475699b9c82316f40658_w960_h540.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/7b26ad59b6ba475699b9c82316f40658_w960_h540.gif)
 
-[![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/fdd84afd24fc4d669e6f8fd7c1cedeca_w960_h540.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/fdd84afd24fc4d669e6f8fd7c1cedeca_w960_h540.gif)
 
-[![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/f2a97cb6f0624643ae4a367187bc5d13_w960_h540.gif)
+![](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/threadResource/20220501/f2a97cb6f0624643ae4a367187bc5d13_w960_h540.gif)
 
 `存在问题:`
 
