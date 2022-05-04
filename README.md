@@ -85,7 +85,7 @@ Tip：为防止恶意修MT公共签名改为个人签名，因此不可直接升
 
 安装教程：
 
-[![video]https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/video/20220504/a0702e80911e4366aea220850e574362_w1920_h1080.jpg_.webp](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/video/20220504/641b1d8ce895430295c6189da3da0d1a.mp4)
+[点击观看视频](https://community-static.vivo.com.cn/wiwNWYCFW9ieGbWq/video/20220504/641b1d8ce895430295c6189da3da0d1a.mp4)
 
 `说明:为占用百度地图包名版本,所以手机中如果有百度地图请先卸载再安装;`
 
